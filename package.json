@@ -12,6 +12,7 @@
     "author": "Rimantas (https://github.com/belauzas)",
     "license": "MIT",
     "dependencies": {
+        "dead-server": "^1.0.9",
         "express": "^5.1.0"
     }
 }
